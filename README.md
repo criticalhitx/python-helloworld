@@ -1,1 +1,1 @@
-Using auto build image
+criticalhitx/python-helloworld:latest
