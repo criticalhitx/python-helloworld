@@ -44,4 +44,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: criticalhitx/python-helloworld:latest
+          tags: criticalhitx/python-helloworld:v2.0.0
